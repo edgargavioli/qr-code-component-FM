@@ -1,9 +1,6 @@
 # qr-code-component-FM
 This repository is a solution for the Qr Code Component challenge of Frotend Mentor
 
-![image](https://github.com/edgargavioli/qr-code-component-FM/assets/58188033/829a9f5b-2b82-4cdf-bb71-9d265717832e)
-![gifqrcode](https://github.com/edgargavioli/qr-code-component-FM/assets/58188033/a642cf37-6bd2-4b2e-8e5f-dc7ea6777e91)
-
 # Frontend Mentor - QR code component solution
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
