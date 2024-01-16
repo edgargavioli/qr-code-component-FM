@@ -3,7 +3,7 @@ import {Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle} f
 export default function Home() {
   return (
     <main className='flex items-center justify-center bg-light-gray w-screen h-screen'>
-      <Card className='flex text-center flex-col bg-white justify-center mx-5 p-0 w-96 h-auto rounded-xl shadow-[15px_15px_20px_-15px_rgba(0,0,0,0.2)]'>
+      <Card className='flex text-center flex-col bg-white justify-center p-0 w-96 max-[412px]:w-[90%] h-auto rounded-xl shadow-[15px_15px_20px_-15px_rgba(0,0,0,0.2)]'>
           <CardHeader className='p-4'>  
               <img src='image-qr-code.png' alt='qr-code-image' className='w-full h-full rounded-xl' />
           </CardHeader>
