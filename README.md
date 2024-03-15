@@ -9,7 +9,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -23,11 +22,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![image](https://github.com/edgargavioli/qr-code-component-FM/assets/58188033/829a9f5b-2b82-4cdf-bb71-9d265717832e)
 
 ![gifqrcode](https://github.com/edgargavioli/qr-code-component-FM/assets/58188033/a642cf37-6bd2-4b2e-8e5f-dc7ea6777e91)
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
